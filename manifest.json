@@ -1,0 +1,38 @@
+{
+  "name": "Centang Dua",
+  "short_name": "CentangDua",
+  "start_url": "https://www.centangdua.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog ini merupakan blog yang berisikan informasi pendidikan, beasiswa dalam dan luar negeri serta tentang tutorial internet dan lain-lain.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-FuAKnCWS8hQ/Xj-oD6uxkBI/AAAAAAAAAx8/hy2zsgxhI_YO-NDBkK29tmM33w3oNjlEACLcBGAsYHQ/s1600/centang48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VLqlMh9Um98/Xj-ogY25sDI/AAAAAAAAAyE/U_9fV6WFHVkG3Z34Df02gMJmiZJMC0XBACLcBGAsYHQ/s1600/centang71.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GuKiAPBydAY/Xj-o-4ov6iI/AAAAAAAAAyM/UFZ0bw9-llMh5LxTFtJY08qEeIspsiGJwCEwYBhgL/s1600/centang96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8SfOFOOSzC0/Xj-neYifgZI/AAAAAAAAAxk/YfeL9YX0roYLYOpTOqHsWKcsL6ebSqxIACLcBGAsYHQ/s1600/centang144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dW8o2hxGBN8/Xj-nvyD5BPI/AAAAAAAAAxw/FzGS9Sr0DgAtN3WrjW38QbP3QSoq1rb3QCLcBGAsYHQ/s1600/centang198.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--K9Ojyh1lLw/Xj-nmYIWQWI/AAAAAAAAAxs/AcSpYJ5f8sAVdLu6VV2WOrPuTLHY0OIJQCLcBGAsYHQ/s1600/centang192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-isK5t1v3ADQ/Xj-nWPvJLZI/AAAAAAAAAxc/xeANaogd_jgOPDd8GERiG7U90DrcUybRgCLcBGAsYHQ/s1600/centang512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
